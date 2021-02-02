@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolzoom&layout=compact&theme=cobalt" />
 </a>
 
-![Metrics](https://metrics.lecoq.io/coolzoom)
+![Metrics](https://github.com/coolzoom/coolzoom/blob/main/github-metrics.svg)
 
 <!--
 **coolzoom/coolzoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
