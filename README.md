@@ -1,5 +1,8 @@
 ### Hi there 👋
 ### oh goody 😄
+
+![Metrics](https://github.com/coolzoom/coolzoom/blob/main/github-metrics.svg)
+
 <img align="center" src="https://gpvc.arturio.dev/coolzoom" alt="coolzoom's github views" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoolzoom)](https://github.com/coolzoom)
@@ -15,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolzoom&layout=compact&theme=cobalt" />
 </a>
 
-![Metrics](https://github.com/coolzoom/coolzoom/blob/main/github-metrics.svg)
+
 
 <!--
 **coolzoom/coolzoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
