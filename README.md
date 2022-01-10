@@ -42,3 +42,6 @@ Here are some ideas to get you started:
 [![Mail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:test@test.test)](mailto:test@test.test)  
 
 [![Github Followers](https://img.shields.io/github/followers/coolzoom?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/coolzoom?tab=followers)
+
+---
+![](https://raw.githubusercontent.com/coolzoom/coolzoom/output/github-contribution-grid-snake.svg)
