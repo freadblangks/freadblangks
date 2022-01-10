@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🏆 Github Profile Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=coolzoom&column=8"/>
