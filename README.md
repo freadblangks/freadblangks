@@ -12,9 +12,6 @@
 
 [![Github Followers](https://img.shields.io/github/followers/coolzoom?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/coolzoom?tab=followers)
 
-[![holy sweet](https://github-readme-stats.vercel.app/api?username=coolzoom&show_icons=true&theme=cobalt)](https://github.com/coolzoom)
-
-
 <!--
 **coolzoom/coolzoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
