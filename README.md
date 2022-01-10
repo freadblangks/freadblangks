@@ -14,11 +14,6 @@
 
 [![holy sweet](https://github-readme-stats.vercel.app/api?username=coolzoom&show_icons=true&theme=cobalt)](https://github.com/coolzoom)
 
-<a href="https://github.com/coolzoom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolzoom&layout=compact&theme=cobalt" />
-</a>
-
-
 
 <!--
 **coolzoom/coolzoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +29,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌠 Coding Time
+> the projects I'm working on
+
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=coolzoom&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolzoom&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
+
+
+---
 
 ### 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=coolzoom&column=8"/>
