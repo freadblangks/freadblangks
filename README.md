@@ -1,5 +1,6 @@
-### Hi there 👋
-### oh goody 😄
+### Summary Card 🔭
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coolzoom&theme=monokai)
 
 <!--
 **coolzoom/coolzoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 
 ### 🌠 Coding Time
 > the projects I'm working on
